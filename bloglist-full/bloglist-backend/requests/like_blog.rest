@@ -1,0 +1,11 @@
+PUT http://localhost:3003/api/blogs/602af01a97cfb00a5c7e5fe0
+Content-type: application/json
+
+{
+    "title": "Tart of Unacy",
+    "author": "U.N Owen",
+    "url": "sivun_urli",
+    "likes": 1,
+    "user": "5fed13d616d4144b9062a606",
+    "id": "602af01a97cfb00a5c7e5fe0"
+}

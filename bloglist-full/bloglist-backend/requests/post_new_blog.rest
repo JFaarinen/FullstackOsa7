@@ -1,0 +1,12 @@
+POST http://localhost:3003/api/blogs
+Content-type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImdicnVzaCIsImlkIjoiNWZlZDEzZDYxNmQ0MTQ0YjkwNjJhNjA2IiwiaWF0IjoxNjEzNDI2NjQxfQ.FZOLq2E4Uk2lYAkogH-S6NFBoa2CcobFgemGmzEV3C0
+
+{
+    "title": "Tart of Unacy",
+    "author": "U.N Owen",
+    "url": "sivun_urli",
+    "userId": "6002d7100606cb0b84cbb3fe"
+}
+
+
